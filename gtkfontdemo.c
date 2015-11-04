@@ -3,7 +3,7 @@
   gcc -W -Wall -s -O2 `pkg-config --cflags --libs gtk+-2.0` \
   -o gtkfontdemo "$0"; exit 0
 /*
- * gtkfonttest.c: Font rendering demo (with colors and markup) for GTK.
+ * gtkfontdemo.c: Font rendering demo (with colors and markup) for GTK.
  * by pts@fazekas.hu at Tue Nov  2 15:18:09 CET 2010
  */
 
